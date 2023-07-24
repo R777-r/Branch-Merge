@@ -1,1 +1,1 @@
-Version_2 for git Branching.
+Version_3 for branch and merge.
